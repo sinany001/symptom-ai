@@ -1,0 +1,19 @@
+# Secrets and environment
+.env
+.env.*
+
+# Python
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Old API test script
+check_openai.py
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/

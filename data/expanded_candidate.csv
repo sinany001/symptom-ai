@@ -1,0 +1,183 @@
+text,label
+"itching, skin rash, nodal skin eruptions, dischromic patches",fungal infection
+"skin rash, nodal skin eruptions, dischromic patches",fungal infection
+"itching, nodal skin eruptions, dischromic patches",fungal infection
+"itching, skin rash, dischromic patches",fungal infection
+"itching, skin rash, nodal skin eruptions",fungal infection
+"continuous sneezing, shivering, chills, watering from eyes",allergy
+"shivering, chills, watering from eyes",allergy
+"continuous sneezing, chills, watering from eyes",allergy
+"continuous sneezing, shivering, watering from eyes",allergy
+"continuous sneezing, shivering, chills",allergy
+"stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain",gastroesophageal reflux disease
+"stomach pain, ulcers on tongue, vomiting, cough, chest pain",gastroesophageal reflux disease
+"stomach pain, acidity, vomiting, cough, chest pain",gastroesophageal reflux disease
+"stomach pain, acidity, ulcers on tongue, cough, chest pain",gastroesophageal reflux disease
+"stomach pain, acidity, ulcers on tongue, vomiting, chest pain",gastroesophageal reflux disease
+"stomach pain, acidity, ulcers on tongue, vomiting, cough",gastroesophageal reflux disease
+"acidity, ulcers on tongue, vomiting, cough, chest pain",gastroesophageal reflux disease
+"itching, skin rash, stomach pain, burning micturition, spotting urination",drug reaction
+"itching, stomach pain, burning micturition, spotting urination",drug reaction
+"itching, skin rash, burning micturition, spotting urination",drug reaction
+"itching, skin rash, stomach pain, spotting urination",drug reaction
+"itching, skin rash, stomach pain, burning micturition",drug reaction
+"skin rash, stomach pain, burning micturition, spotting urination",drug reaction
+"vomiting, loss of appetite, abdominal pain, passage of gases, internal itching",peptic ulcer disease
+"vomiting, indigestion, abdominal pain, passage of gases, internal itching",peptic ulcer disease
+"indigestion, loss of appetite, abdominal pain, passage of gases, internal itching",peptic ulcer disease
+"vomiting, indigestion, loss of appetite, passage of gases, internal itching",peptic ulcer disease
+"vomiting, indigestion, loss of appetite, abdominal pain, internal itching",peptic ulcer disease
+"vomiting, indigestion, loss of appetite, abdominal pain, passage of gases",peptic ulcer disease
+"vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching",peptic ulcer disease
+"fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria",diabetes
+"weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria",diabetes
+"fatigue, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria",diabetes
+"fatigue, weight loss, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria",diabetes
+"fatigue, weight loss, restlessness, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria",diabetes
+"fatigue, weight loss, restlessness, lethargy, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria",diabetes
+"fatigue, weight loss, restlessness, lethargy, irregular sugar level, obesity, excessive hunger, increased appetite, polyuria",diabetes
+"fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, excessive hunger, increased appetite, polyuria",diabetes
+"fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, increased appetite, polyuria",diabetes
+"fatigue, cough, high fever, breathlessness, family history, mucoid sputum",bronchial asthma
+"cough, high fever, breathlessness, family history, mucoid sputum",bronchial asthma
+"fatigue, high fever, breathlessness, family history, mucoid sputum",bronchial asthma
+"fatigue, cough, breathlessness, family history, mucoid sputum",bronchial asthma
+"fatigue, cough, high fever, family history, mucoid sputum",bronchial asthma
+"fatigue, cough, high fever, breathlessness, mucoid sputum",bronchial asthma
+"fatigue, cough, high fever, breathlessness, family history",bronchial asthma
+"headache, chest pain, dizziness, loss of balance, lack of concentration",hypertension
+"chest pain, dizziness, loss of balance, lack of concentration",hypertension
+"headache, dizziness, loss of balance, lack of concentration",hypertension
+"headache, chest pain, loss of balance, lack of concentration",hypertension
+"headache, chest pain, dizziness, lack of concentration",hypertension
+"headache, chest pain, dizziness, loss of balance",hypertension
+"acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances",migraine
+"indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances",migraine
+"acidity, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances",migraine
+"acidity, indigestion, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances",migraine
+"acidity, indigestion, headache, excessive hunger, stiff neck, depression, irritability, visual disturbances",migraine
+"acidity, indigestion, headache, blurred and distorted vision, stiff neck, depression, irritability, visual disturbances",migraine
+"acidity, indigestion, headache, blurred and distorted vision, excessive hunger, depression, irritability, visual disturbances",migraine
+"acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, irritability, visual disturbances",migraine
+"acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, visual disturbances",migraine
+"acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability",migraine
+"back pain, weakness in limbs, neck pain, dizziness, loss of balance",cervical spondylosis
+"weakness in limbs, neck pain, dizziness, loss of balance",cervical spondylosis
+"back pain, neck pain, dizziness, loss of balance",cervical spondylosis
+"back pain, weakness in limbs, dizziness, loss of balance",cervical spondylosis
+"back pain, weakness in limbs, neck pain, loss of balance",cervical spondylosis
+"back pain, weakness in limbs, neck pain, dizziness",cervical spondylosis
+"itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain",jaundice
+"vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain",jaundice
+"itching, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain",jaundice
+"itching, vomiting, weight loss, high fever, yellowish skin, dark urine, abdominal pain",jaundice
+"itching, vomiting, fatigue, high fever, yellowish skin, dark urine, abdominal pain",jaundice
+"itching, vomiting, fatigue, weight loss, yellowish skin, dark urine, abdominal pain",jaundice
+"itching, vomiting, fatigue, weight loss, high fever, dark urine, abdominal pain",jaundice
+"itching, vomiting, fatigue, weight loss, high fever, yellowish skin, abdominal pain",jaundice
+"itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine",jaundice
+"chills, vomiting, high fever, sweating, headache, nausea, muscle pain",malaria
+"chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain",malaria
+"vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain",malaria
+"chills, high fever, sweating, headache, nausea, diarrhoea, muscle pain",malaria
+"chills, vomiting, sweating, headache, nausea, diarrhoea, muscle pain",malaria
+"chills, vomiting, high fever, headache, nausea, diarrhoea, muscle pain",malaria
+"chills, vomiting, high fever, sweating, nausea, diarrhoea, muscle pain",malaria
+"chills, vomiting, high fever, sweating, headache, diarrhoea, muscle pain",malaria
+"itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body",chicken pox
+"skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body",chicken pox
+"itching, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body",chicken pox
+"itching, skin rash, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body",chicken pox
+"itching, skin rash, fatigue, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body",chicken pox
+"itching, skin rash, fatigue, lethargy, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body",chicken pox
+"itching, skin rash, fatigue, lethargy, high fever, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body",chicken pox
+"itching, skin rash, fatigue, lethargy, high fever, headache, mild fever, swelled lymph nodes, malaise, red spots over body",chicken pox
+"itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, swelled lymph nodes, malaise, red spots over body",chicken pox
+"itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, malaise, red spots over body",chicken pox
+"skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, muscle pain, red spots over body",dengue
+"skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, red spots over body",dengue
+"skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain",dengue
+"skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",dengue
+"chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",dengue
+"skin rash, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",dengue
+"skin rash, chills, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",dengue
+"skin rash, chills, joint pain, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",dengue
+"skin rash, chills, joint pain, vomiting, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",dengue
+"skin rash, chills, joint pain, vomiting, fatigue, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",dengue
+"chills, vomiting, fatigue, high fever, nausea, constipation, abdominal pain, diarrhoea, toxic look typhos, belly pain",typhoid
+"chills, vomiting, fatigue, high fever, headache, constipation, abdominal pain, diarrhoea, toxic look typhos, belly pain",typhoid
+"chills, vomiting, fatigue, high fever, headache, nausea, abdominal pain, diarrhoea, toxic look typhos, belly pain",typhoid
+"chills, vomiting, fatigue, high fever, headache, nausea, constipation, diarrhoea, toxic look typhos, belly pain",typhoid
+"chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, toxic look typhos, belly pain",typhoid
+"chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, belly pain",typhoid
+"chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look typhos",typhoid
+"chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look typhos, belly pain",typhoid
+"chills, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look typhos, belly pain",typhoid
+"continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain",common cold
+"chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain",common cold
+"continuous sneezing, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain",common cold
+"continuous sneezing, chills, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain",common cold
+"continuous sneezing, chills, fatigue, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain",common cold
+"continuous sneezing, chills, fatigue, cough, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain",common cold
+"continuous sneezing, chills, fatigue, cough, high fever, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain",common cold
+"continuous sneezing, chills, fatigue, cough, high fever, headache, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain",common cold
+"continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain",common cold
+"chills, fatigue, cough, high fever, breathlessness, sweating, malaise, chest pain, fast heart rate, rusty sputum",pneumonia
+"chills, fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",pneumonia
+"fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",pneumonia
+"chills, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",pneumonia
+"chills, fatigue, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",pneumonia
+"chills, fatigue, cough, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",pneumonia
+"chills, fatigue, cough, high fever, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",pneumonia
+"chills, fatigue, cough, high fever, breathlessness, malaise, phlegm, chest pain, fast heart rate, rusty sputum",pneumonia
+"chills, fatigue, cough, high fever, breathlessness, sweating, phlegm, chest pain, fast heart rate, rusty sputum",pneumonia
+"constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus",dimorphic hemorrhoids
+"pain during bowel movements, pain in anal region, bloody stool, irritation in anus",dimorphic hemorrhoids
+"constipation, pain in anal region, bloody stool, irritation in anus",dimorphic hemorrhoids
+"constipation, pain during bowel movements, bloody stool, irritation in anus",dimorphic hemorrhoids
+"constipation, pain during bowel movements, pain in anal region, irritation in anus",dimorphic hemorrhoids
+"constipation, pain during bowel movements, pain in anal region, bloody stool",dimorphic hemorrhoids
+"fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf",varicose veins
+"cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf",varicose veins
+"fatigue, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf",varicose veins
+"fatigue, cramps, obesity, swollen legs, swollen blood vessels, prominent veins on calf",varicose veins
+"fatigue, cramps, bruising, swollen legs, swollen blood vessels, prominent veins on calf",varicose veins
+"fatigue, cramps, bruising, obesity, swollen blood vessels, prominent veins on calf",varicose veins
+"fatigue, cramps, bruising, obesity, swollen legs, prominent veins on calf",varicose veins
+"fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels",varicose veins
+"joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking",arthritis
+"neck pain, knee pain, hip joint pain, swelling joints, painful walking",arthritis
+"joint pain, knee pain, hip joint pain, swelling joints, painful walking",arthritis
+"joint pain, neck pain, hip joint pain, swelling joints, painful walking",arthritis
+"joint pain, neck pain, knee pain, swelling joints, painful walking",arthritis
+"joint pain, neck pain, knee pain, hip joint pain, painful walking",arthritis
+"joint pain, neck pain, knee pain, hip joint pain, swelling joints",arthritis
+"muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking",arthritis
+"stiff neck, swelling joints, movement stiffness, painful walking",arthritis
+"muscle weakness, swelling joints, movement stiffness, painful walking",arthritis
+"muscle weakness, stiff neck, movement stiffness, painful walking",arthritis
+"muscle weakness, stiff neck, swelling joints, painful walking",arthritis
+"muscle weakness, stiff neck, swelling joints, movement stiffness",arthritis
+"skin rash, pus filled pimples, blackheads, scurring",acne
+"pus filled pimples, blackheads, scurring",acne
+"skin rash, blackheads, scurring",acne
+"skin rash, pus filled pimples, scurring",acne
+"skin rash, pus filled pimples, blackheads",acne
+"burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine",urinary tract infection
+"bladder discomfort, foul smell of urine, continuous feel of urine",urinary tract infection
+"burning micturition, foul smell of urine, continuous feel of urine",urinary tract infection
+"burning micturition, bladder discomfort, continuous feel of urine",urinary tract infection
+"burning micturition, bladder discomfort, foul smell of urine",urinary tract infection
+"skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails",psoriasis
+"joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails",psoriasis
+"skin rash, skin peeling, silver like dusting, small dents in nails, inflammatory nails",psoriasis
+"skin rash, joint pain, silver like dusting, small dents in nails, inflammatory nails",psoriasis
+"skin rash, joint pain, skin peeling, small dents in nails, inflammatory nails",psoriasis
+"skin rash, joint pain, skin peeling, silver like dusting, inflammatory nails",psoriasis
+"skin rash, joint pain, skin peeling, silver like dusting, small dents in nails",psoriasis
+"skin rash, high fever, blister, red sore around nose, yellow crust ooze",impetigo
+"high fever, blister, red sore around nose, yellow crust ooze",impetigo
+"skin rash, blister, red sore around nose, yellow crust ooze",impetigo
+"skin rash, high fever, red sore around nose, yellow crust ooze",impetigo
+"skin rash, high fever, blister, yellow crust ooze",impetigo
+"skin rash, high fever, blister, red sore around nose",impetigo
